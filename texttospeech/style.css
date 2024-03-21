@@ -1,0 +1,17 @@
+body{
+    background:#7ae640;
+}
+#container{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    margin-left: 500px;
+    margin-top: 100px;
+    background: lime;
+}
+#btn{
+    background-color: black;
+    color: white;
+  margin-left: 200px;
+  margin-top: 150px;
+}
